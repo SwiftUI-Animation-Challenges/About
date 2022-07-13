@@ -23,8 +23,8 @@ What we then recommend you to do is to try to figure out how the elements behave
 If you get stuck at any point always feel free to tweet at [Amos](https://twitter.com/amos_gyamfi) and/or [Stefan](https://twitter.com/stefanjblos). We're always happy to chat and help you when you are stuck or have questions. Good luck in the challenge!
 
 ## The Animation Challenges
-|  Task | Solution |   
-|-------|----------|
-|       |          |
+|  Tasks                                                                          | Solution |   
+|-------                                                                          |----------|
+| [Challenge 1](https://github.com/SwiftUI-Animation-Challenges/Challenge-1)      | [Soon](#)|
 |       |          |
 |       |          |
