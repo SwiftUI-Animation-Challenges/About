@@ -25,6 +25,6 @@ If you get stuck at any point always feel free to tweet at [Amos](https://twitte
 ## The Animation Challenges
 |  Tasks                                                                          | Solution |   
 |-------                                                                          |----------|
-| [Challenge 1](https://github.com/SwiftUI-Animation-Challenges/Challenge-1)      | [Soon](#)|
+| [Challenge 1](https://github.com/SwiftUI-Animation-Challenges/Challenge-1)      | [Coming soon](#)|
 |       |          |
 |       |          |
